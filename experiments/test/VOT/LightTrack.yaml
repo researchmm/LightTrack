@@ -1,0 +1,8 @@
+TEST:
+  VOT2019: # LightTrack Mobile (EAO 0.333)
+    penalty_k: 0.007
+    lr: 0.616
+    window_influence: 0.225
+    small_sz: 256
+    big_sz: 288
+    ratio: 1
