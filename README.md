@@ -4,7 +4,9 @@
   <img src="Archs.gif" width="800px" />
 </div>
 
-The official implementation of the paper [**LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search**](https://arxiv.org/abs/2104.14545)
+The official implementation of the paper 
+
+[**LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search**](https://arxiv.org/abs/2104.14545)
 
 Hiring research interns for visual transformer projects: houwen.peng@microsoft.com
 
