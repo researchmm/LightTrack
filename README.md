@@ -13,7 +13,7 @@ Hiring research interns for visual transformer projects: houwen.peng@microsoft.c
 We present LightTrack, which uses neural architecture search (NAS) to design more lightweight and efficient object trackers. Comprehensive experiments show that our LightTrack is effective. It can find trackers that achieve superior performance compared to handcrafted SOTA trackers, such as SiamRPN++ and Ocean, while using much fewer model Flops and parameters. Moreover, when deployed on resource-constrained mobile chipsets, the discovered trackers run much faster. For example, on Snapdragon 845 Adreno GPU, LightTrack runs 12× faster than Ocean, while using 13× fewer parameters and 38× fewer Flops. Such improvements might narrow the gap between academic models and industrial deployments in object tracking task.
 
 <div align="center">
-  <img src="LightTrack_Fig1.PNG" width="800px" />
+  <img src="LightTrack_Fig1.PNG" width="500px" />
 </div>
 
 ## Environment Installation
